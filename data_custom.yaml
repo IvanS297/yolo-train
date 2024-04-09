@@ -1,0 +1,6 @@
+train: C:\Users\Ваня\PycharmProjects\Tensorflow\yolo\train
+val: C:\Users\Ваня\PycharmProjects\Tensorflow\yolo\val
+
+nc: 4
+
+names: ["brick", "plate", "technic_pin_connector", "vehicle_mudguard"]
